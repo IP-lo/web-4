@@ -1,0 +1,36 @@
+*{
+    margin: 0;padding: 0;
+}
+body{
+    font-size: 20px;
+}
+.inputElement{
+    display: flex;
+    flex-direction: row;
+}
+.formElem{
+    display: flex;
+    flex-direction: column;
+    padding: 5px 10px;
+}
+.btn{
+    font-size: 20px;
+    border-radius: 5px;
+    border-width: 1px;
+    margin-left: 25%;
+    width: 50%;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    width: max-content;
+}
+label, input{
+    margin-bottom: 10px;
+}
+input{
+    margin-top: 4px;
+}
+.res{
+    margin: 20px 0px 0px 10px;
+}

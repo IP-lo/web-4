@@ -1,0 +1,22 @@
+*{
+    margin: 0;padding: 0;
+}
+body {
+    font-size: 20px;
+}
+
+.cartElem{
+    margin: 20px;
+}
+.foodCart{
+    width: max-content;
+    padding: 10px 5px;
+}
+.btn{
+    font-size: 20px;
+    border-width: 1px;
+    border-radius: 5px;
+}
+p, h1{
+    margin: 10px 0;
+}
